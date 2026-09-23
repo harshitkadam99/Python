@@ -1,0 +1,13 @@
+# Must start with a letter or underscore (_). 
+# Can contain digits, letters, and underscores.
+# Cnnot start with a digit
+# Cannot use python keywords as avriable names (if,else,for etc.)
+# Names are case sensitive (name != Name != NAME != NaMe)
+
+Python Programming created by Guido van Rossum, released in 1991.
+It is a simple lanuage
+where codes runs line by line no compilation needed (Interpreted lanuage) - it doesnot convert the code in binary, it directly runs line by line. 
+Dynamically typed - we have to not define the variables.
+
+C++ - int x =  (statically Typed)
+Python - x = 5 
