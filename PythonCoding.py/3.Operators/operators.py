@@ -37,3 +37,13 @@ f = False
 print(e and f)  # False
 print(e or f)   # True
 print(not e)    # False
+
+## and -> both  coditions should be True to return True
+## or -> at least one condition should be True to return True
+## not -> it negates the boolean value
+
+
+## some other operators are also there in python which are not used frequently but they are also important to know about them.
+## Bitwise Operators (&, |, ^, ~, <<, >>)
+## Identity Operators (is, is not)
+## Membership Operators (in, not in)
